@@ -1,0 +1,5 @@
+{
+  "name": "Route - Community Carpooling",
+  "description": "A ride-sharing platform connecting drivers with empty seats to passengers traveling the same route.",
+  "requestFramePermissions": ["geolocation"]
+}
